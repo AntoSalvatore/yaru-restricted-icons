@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g fill="#808080">
+  <path d="m15.5 8a7.5 7.5 0 0 1-7.5 7.5 7.5 7.5 0 0 1-7.5-7.5 7.5 7.5 0 0 1 7.5-7.5 7.5 7.5 0 0 1 7.5 7.5z" color="#000000" fill-opacity=".4" stroke-dashoffset="6.6" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path d="m8 0c-4.4124 0-8 3.5876-8 8 0 4.4124 3.5876 8 8 8 4.4124 0 8-3.5876 8-8 0-4.4124-3.5876-8-8-8zm0 1c3.8719 0 7 3.1281 7 7s-3.1281 7-7 7-7-3.1281-7-7 3.1281-7 7-7z" color="#000000" stroke-dashoffset="6.6" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <g>
+   <circle cx="8" cy="8" r="5.5" enable-background="new" opacity=".15"/>
+   <circle cx="8" cy="8" r="3.5" enable-background="new" opacity=".15"/>
+   <circle cx="8" cy="8" r="1.5" enable-background="new" opacity=".15"/>
+  </g>
+ </g>
+</svg>

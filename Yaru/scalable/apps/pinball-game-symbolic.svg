@@ -1,0 +1,7 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g fill="#808080">
+  <path d="m8 16a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8zm0-1a7 7 0 0 0 7-7 7 7 0 0 0-7-7 7 7 0 0 0-7 7 7 7 0 0 0 7 7z"/>
+  <circle cx="6.6986" cy="6.5016" r="4" opacity=".5" stroke-dashoffset="1.9" stroke-linejoin="round" stroke-miterlimit="3.1" stroke-width="1.3535" style="paint-order:stroke fill markers"/>
+  <ellipse transform="rotate(-30)" cx="2.5945" cy="6.9237" rx="2.5" ry="1.5" stroke-dashoffset="1.9" stroke-linejoin="round" stroke-miterlimit="3.1" stroke-width=".90435" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
